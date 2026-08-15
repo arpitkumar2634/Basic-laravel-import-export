@@ -10,7 +10,7 @@
 
     <header class="bg-dark py-4 mb-4">
         <div class="container">
-            <h1 class="text-white text-center">Laravel Student Export / Import</h1>
+            <h1 class="text-white text-center">Laravel Student Export And Import</h1>
         </div>
     </header>
 
